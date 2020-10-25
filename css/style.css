@@ -18,11 +18,17 @@ body {
 }
 
 footer p {
+  font-family: Times New Roman, serif;
   font-size: 12.8px;
   margin: 0px 0px 20px;
   text-align: right;
 }
 
 header {
-  
+  padding-bottom: 10px;
+    margin: 0 0 5px;
+    font-size: 5em;
+    font-weight: normal;
+    font-family: 'Baskerville', serif;
+    border-bottom: 1px solid #ccc;
 }
