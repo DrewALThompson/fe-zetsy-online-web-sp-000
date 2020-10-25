@@ -17,10 +17,8 @@ body {
 	padding: 0 45px 20px;
 }
 
-footer {
+footer p {
   font-size: 12.8px;
   margin: 0px 0px 20px;
   text-align: right;
 }
-
-/* Write all remaining styles here */
